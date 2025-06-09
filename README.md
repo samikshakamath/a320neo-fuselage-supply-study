@@ -1,10 +1,8 @@
 # Strategic Analysis of Airbus A320neo Fuselage Supply Chain ✈️
 
 **Authors:** Samiksha Kamath & Group  
-**Project Type:** Group Industry Report
+**Project Date:** 28/11/2024
 ---
-
-## 🧭 Project Overview
 
 This project provides a detailed analysis of the **global supply chain** for the **Airbus A320neo's fuselage** — focusing on supplier strategies, risk exposure, digital transformation, and sustainability initiatives. It emphasizes procurement structures within the aerospace industry, specifically Airbus’ approach to sourcing and managing a complex, multi-tiered supplier network.
 
@@ -41,7 +39,7 @@ This project provides a detailed analysis of the **global supply chain** for the
 
 ## 📂 Repository Contents
 
-- `Supply.pdf` – Final industry report  
+- `A320neo_Fuselage_SupplyChain_Analysis.pdf` – Final industry report  
 - `README.md` – This file  
 
 
