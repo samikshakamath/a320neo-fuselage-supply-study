@@ -39,7 +39,7 @@ This project provides a detailed analysis of the **global supply chain** for the
 
 ## 📂 Repository Contents
 
-- `A320neo_Fuselage_SupplyChain_Analysis.pdf` – Final industry report  
+- `A320neo_Fuselage_SupplyChain_Analysis.pdf.pdf` – Final industry report  
 - `README.md` – This file  
 
 
